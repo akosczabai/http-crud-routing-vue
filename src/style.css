@@ -1,0 +1,17 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.gray-color {
+  background-color: #222429;
+}
+
+.white-font,
+.white-font a,
+.white-font a.active,
+.white-font router-link {
+  color: #d6d0d0;
+}
