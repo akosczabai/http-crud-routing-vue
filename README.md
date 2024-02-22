@@ -1,3 +1,9 @@
+# How to run this project?
+
+In terminal navigate to the root folder and `npm run dev` command. Open a new termial window and navigate to the `src/` folder and run `json-server cars.json` command. In browser open the `http://localhost:4200/` path.
+
+In the running application you can add new cars on the New Car page. You can list all the cars in the database on the Cars page. Here you can delete or edit cars.
+
 # Vue 3 + TypeScript + Vite
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
